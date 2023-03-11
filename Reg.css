@@ -109,3 +109,19 @@ button{
     bottom: 30px;
     
 }
+
+.last-img{
+    position: absolute;
+    left: 900px;
+    bottom: 5px;
+    width: 250px;
+    
+}
+
+.one{
+color: #ffffff;
+}
+
+.two{
+color: green;
+}
