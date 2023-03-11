@@ -48,8 +48,9 @@ bottom: 0px;
 }
 .log-image{
     position: absolute;
-    left: 500px;
-    top: 50px;
+    left: 554px;
+    top: 6px;
+    width: 370px;
 }
 
 form *{
